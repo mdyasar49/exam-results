@@ -1,1 +1,180 @@
-
+{
+    "examName": "Group 1V",
+    "examCode": "G4",
+    "examDate": "2023-10-15 10:00:00",
+    "candidates": [
+        {
+            "candidateId": 1,
+            "name": "candidate name 1",
+            "gender": "male",
+            "district": "Pudukkottai",
+            "address": "Address here goes...",
+            "score": 90,
+            "result": "pass",
+            "submittedOn": "2023-10-15 15:40:00",
+            "details" : {
+                "answered": 98,
+                "Unanswered": 15,
+                "correctAnswer": 90,
+                "incorrectAnswer": 4
+            }
+        },
+        {
+            "candidateId": 1,
+            "name": "candidate name 2",
+            "gender": "female",
+            "district": "Trichy",
+            "address": "Address here goes...",
+            "score": 89,
+            "result": "fail",
+            "submittedOn": "2023-10-15 14:40:00",
+            "details" : {
+                "answered": 97,
+                "Unanswered": 7,
+                "correctAnswer": 89,
+                "incorrectAnswer": 4
+            }
+        }, 
+        {
+            "candidateId": 1,
+            "name": "candidate name 3",
+            "gender": "female",
+            "district": "Chennai",
+            "address": "Address here goes...",
+            "score": 88,
+            "result": " ",
+            "details" : {
+                "answered": 96,
+                "Unanswered": 8,
+                "correctAnswer": 88,
+                "incorrectAnswer": 4
+            }
+        },
+        {
+            "candidateId": 1,
+            "name": "candidate name 4",
+            "gender": "male",
+            "district": "Pudukkottai",
+            "address": "Address here goes...",
+            "score": 87,
+            "result": "pass",
+            "submittedOn": "2023-10-15 15:40:00",
+            "details" : {
+                "answered": 95,
+                "Unanswered": 9,
+                "correctAnswer": 87,
+                "incorrectAnswer": 4
+            }
+        },
+        {
+            "candidateId": 1,
+            "name": "candidate name 5",
+            "gender": "female",
+            "district": "Trichy",
+            "address": "Address here goes...",
+            "score": 86,
+            "result": "fail",
+            "submittedOn": "2023-10-15 14:40:00",
+            "details" : {
+                "answered": 94,
+                "Unanswered": 10,
+                "correctAnswer": 86,
+                "incorrectAnswer": 4
+            }
+        }, 
+        {
+            "candidateId": 1,
+            "name": "candidate name 6",
+            "gender": "female",
+            "district": "Chennai",
+            "address": "Address here goes...",
+            "score": 85,
+            "result": " ",
+            "details" : {
+                "answered": 93,
+                "Unanswered": 11,
+                "correctAnswer": 85,
+                "incorrectAnswer": 4
+            }
+        },
+        {
+            "candidateId": 1,
+            "name": "candidate name 7",
+            "gender": "male",
+            "district": "Pudukkottai",
+            "address": "Address here goes...",
+            "score": 84,
+            "result": "pass",
+            "submittedOn": "2023-10-15 15:40:00",
+            "details" : {
+                "answered": 92,
+                "Unanswered": 12,
+                "correctAnswer": 84,
+                "incorrectAnswer": 4
+            }
+        },
+        {
+            "candidateId": 1,
+            "name": "candidate name 8",
+            "gender": "female",
+            "district": "Trichy",
+            "address": "Address here goes...",
+            "score": 83,
+            "result": "fail",
+            "submittedOn": "2023-10-15 14:40:00",
+            "details" : {
+                "answered": 91,
+                "Unanswered": 13,
+                "correctAnswer": 83,
+                "incorrectAnswer": 4
+            }
+        }, 
+        {
+            "candidateId": 1,
+            "name": "candidate name 9",
+            "gender": "female",
+            "district": "Chennai",
+            "address": "Address here goes...",
+            "score": 82,
+            "result": "pass",
+            "details" : {
+                "answered": 90,
+                "Unanswered": 14,
+                "correctAnswer": 82,
+                "incorrectAnswer": 4
+            }
+        },
+        {
+            "candidateId": 1,
+            "name": "candidate name 10",
+            "gender": "male",
+            "district": "Pudukkottai",
+            "address": "Address here goes...",
+            "score": 81,
+            "result": "pass",
+            "submittedOn": "2023-10-15 15:40:00",
+            "details" : {
+                "answered": 89,
+                "Unanswered": 15,
+                "correctAnswer": 81,
+                "incorrectAnswer": 4
+            }
+        },
+        {
+            "candidateId": 1,
+            "name": "candidate name 11",
+            "gender": "female",
+            "district": "Trichy",
+            "address": "Address here goes...",
+            "score": 80,
+            "result": "fail",
+            "submittedOn": "2023-10-15 14:40:00",
+            "details" : {
+                "answered": 88,
+                "Unanswered": 16,
+                "correctAnswer": 80,
+                "incorrectAnswer": 4
+            }
+        }
+    ]
+}
